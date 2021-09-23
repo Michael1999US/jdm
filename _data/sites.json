@@ -11753,6 +11753,17 @@
     },
 
     {
+        "name": "XTB",
+        "difficulty": "Hard",
+        "notes": "To close your account send them an email. cs@xtb.com for EU residents; uksales@xtb.com for UK Residents; sales_int@xtb.com for Non EU/UK Residents",
+        "email": "cs@xtb.com",
+        "domains": [
+            "xtb.com",
+            "xstation5.xtb.com"
+        ]
+    },
+
+    {
         "name": "Yahoo!",
         "meta": "popular",
         "url": "https://edit.yahoo.com/config/delete_user",
